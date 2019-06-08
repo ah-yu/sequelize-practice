@@ -11,6 +11,6 @@
   "dependencies": {
     "mysql": "^2.15.0",
     "mysql2": "^1.5.1",
-    "sequelize": "^4.23.4"
+    "sequelize": "^5.8.7"
   }
 }
